@@ -1,0 +1,61 @@
+week 4 - 1
+Customer analysis:
+
+1 false
+2 false
+3 false
+4 true
+5 all
+6
+Successful entrepreneurs introduce a product or service that satisfies customer needs in a better way than competitors, and at a price that is greater than the cost of creating and delivering that product or service. To understand how to fulfill customer needs at an attractive price, four areas are critical to assess: macroeconomic changes, industry conditions, industry status, and competition. As a first step to exploring new venture ideas, search for sources of pain or aggravation for customers, as these are prime opportunities for new products. The best clue that a new product or service is needed, are customer complaints about existing products and services.
+
+7
+Types of changes that increase new venture opportunities includes changes in technology, changes in social and demographic factors, changes in political and regulatory rules. Technical change is one of the most important triggers of change, because new technology allows for the expansion of new innovations. The magnitude of technical change is important. Significant change can create entirely new markets. The larger the technical change, the greater the opportunity for new businesses to be created. Societal change opens up opportunities for new businesses by altering people’s preferences and creating demand for things where demand had not existed before.
+Demographic changes can create a host of entrepreneurial opportunities. Each trend offers new opportunities for products and services to serve these customers. Political changes can introduce opportunities or challenges for entrepreneurial ventures. It is valuable to consider how local, state, or national government decisions may change policies. These can challenge existing companies, and open new opportunities for new companies. This type of change creates opportunities because it is productivity enhancing. In other cases, changes generated are not productive, but merely shifts value from one set of economic factors to another.
+
+8
+What is the best way to assess customer needs?
+Why does my product fit customer needs better than those of current and future competitors?
+What price should I charge?
+
+9
+Demographic changes can create a host of entrepreneurial opportunities. Each trend offers new opportunities for products and services to serve these customers. Some that interest me are assisted living centers for the elderly, foreign language radio, and organic food stores. While psychographic change examines shifts in attitudes, values, opinions, interests, and related personal factors of markets. These are contrasted with demographic variables in that psychographics involve how people think and feel.
+
+10
+Technical changes are one of the most important triggers of change, because new technology allows for the expansion of new innovations. For example, invention of portable cassette players leads to portable compact discs players which leads to the development of portable MP3 players and then leads to the capability to play songs on mobile phones. Political changes can introduce opportunities or challenges for entrepreneurial ventures. It is valuable to consider how local, state, or national government decisions may change policies. These can challenge existing companies, and open new opportunities for new companies. I am being aware of the political shifts that will influence business policy, taxation, corporate social responsibility, environmental issues, or consumer protection with my venture.  Governmental regulations affect entrepreneurial ventures in a variety of ways. Managerial regulations govern what the owners and operators of companies can and cannot do. Technology regulations influence standards, interoperability, safety, and a host of related areas. Price regulations often dictate pricing strategies that support fair competition, which along with competitive regulations, are designed to protect consumer interests.
+
+
+week 4 -2
+Business plan evaluation:
+
+1 Educational Software K-12 Business Plan
+2
+http://www.bplans.com/educational_software_k-12_business_plan/executive_summary_fc.php
+
+3 
+CCS (Curriculum Companion Suites )’s missions is to offersoftware curriculum suites to K-12 schools within the U.S. marketalong withthe accompanying installationand consultancy based on their strategic partnerships with educational institutions. However, since these institutions are never exemplified or mentioned, I wonder if they are only high schools or educational research centers such as universities?  They also mention the number and type of executives and experience in their company summary. But I feel that this is not the most relevant information here. They also provide a lot of financial information in this segment.
+
+4
+They only elaborate on their products and services by saying that it ranges from kindergarten to 12thgrade and that it utilizes a central computer in front of the 
+classroom, but they never truly explicitlysay what their product entails! So the question remains: how do they plan on providing these services and using their product to satisfy educational needs?  Is it using educational games such as serious games or game-based learning? Is it using a software that tracks the progress of each student, their homework and attendance for instance? Furthermore, the only differentiating factors from their competitors is that they ‘just are different’ from apple and pencil and paper testing, withoutany explanation! For the financial aspect, they do provide ample information on how funding and expected revenue relate to each other. They also provide some legal information.
+
+5
+They state that their target market is the urban/metropolitan K-12 schools. This makes sense due to the enlarged number of students and infrastructure, which makes perfect sense. However, theydo not define K12 schools and they state that there market segmentation includes schools who either have already purchased their software or schools who have a different software package that was developed by one of their key strategic publisher partners. They do not include the willingness to pay by parents and teachers when it comes to technology enhance learning (which I assume their product is), or the different attitudes towards TEL amongst these urban K-12 schools. They do offer a numeric market size based on urban versus rural schools and their research states that the market trend favors their product due to increase of K-12 schools.
+
+6
+There is no real industry analysis, without providing any elaboration or evidence they just say ‘Major competition to CSS comes not from other software developers but from traditional bookpublishers.’How on earth is this possible? What about apps that provide TEL, Game-based learning, teacher and student planning and tracking apps? None of this is mentioned. As for the future of the industry the only quantifiable data they provide is their research that favors their product because of an increase in schools.So they claim to have a blue ocean strategy whilst actually it is already a red ocean situation. This is because they misjudged the industry status of it being a completely new industry, where it is actually a young, but booming industry with low entry barriers so they are a lot of threats from possible entrants and buyers have a lot of leverage.
+
+7
+Like the industry analysis, there is no real marketing strategy other than that they will focus on urban K-12 schools that will increase in number in the future and that they have strategic partners and relationships with educational institutions. They say that they have no real competition and thus they do not say how they will compete or thrive because of their value innovation or value proposition. ( such as a cheaper price).Their only strategy is discussed when they claim that schools do not reach out for enhancement, so they use a ‘push’ strategy and educate the schools themselves in how to be more efficient. I wonder where all these apps and TEL comes from then?
+
+8
+They provide ample and clear sales timelines and goals (such as earning 500k on software sales per month every month over the course of the first year), and they even provide an extensive sales forecast including costs and expected revenue of all their different services (consulting, instalation, software itself). However, they completely fail to mention how these numbers were derived from their target market ( or how these even align), so it is only a bunch of loose numbers.
+
+9
+The management is constituted of only 2 people, one who has experience in marketing, communications and the other who has experience in finance and business planning. This sounds like a god combination, but when I look at their personal plan, they have completely failed to include other management functions. They do however anticipate to have over 80 people who are installers of the software, developers of the software and marketeers for the software. How can 2 people manage, train and develop 80 people? Other than this, I see noimmediate management team gaps due their complementary team roles.
+
+10
+In the financial plan, they present key expenses as a number on a graph, and their three yearly projected profit and loss graph only differs in the first month, but is exactly the same in the following 11 months. How is this possible? They include marketing and utilities and personal costs and just say that their cutomers and a loan will  be the expected sources of funding. The amount of funding needed to launch the company comes down to around $4,444,391, or at least this is their total operating expenses.
+
+11
+If I were a potential investor, I would decide not to invest in CCS for multiple reasons.Althought they clearly elaborate on financial and legal details, they utterly fail at providing a decent product and service description, industry analysis (they even claim that their competitive advantage is their new to the market technology in a TEL and Game-based learning era!). What’s more is, they never clearify who or what their strategic partners are, only that these are educational institutions. You can imagine that someone who has partered with a university department of learning and technology would truly have a strategic partner, whereas someone who has partnered with a couple of high schools not so much.In short, due to lack of reality (they think they have no real competitors!) and elaboration on what it its they are offering and how this differentiates them from competitors or similar products, this would be a bad business investment.
